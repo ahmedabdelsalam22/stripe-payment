@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';
-import 'package:payment_gateway/core/stripe_consts.dart';
 
+import 'core/stripe_consts.dart';
 import 'gateway/splash.dart';
 
 void main() async {
